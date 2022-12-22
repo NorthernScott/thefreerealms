@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "204a10b31a479bb0",
+        "id": "c69b9d38f170e97e",
         "type": "tabs",
         "children": [
           {
-            "id": "7764c8a9823087cd",
+            "id": "8734f1fd2d2371d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,17 +156,17 @@
       "vantage-obsidian:Vantage - Advanced search builder": false
     }
   },
-  "active": "7764c8a9823087cd",
+  "active": "8734f1fd2d2371d3",
   "lastOpenFiles": [
+    "Meta/Character Worksheet.md",
+    "Culture/Cultures of the World.md",
+    "Meta/Character Archetypes.md",
+    "Meta/General Template.md",
+    "Campaign Map.canvas",
+    "Organizations/Empire of Seven Houses.md",
+    "Locations/Port Zug.md",
     "docs/Features/Text Formatting.md",
     "docs/Topic 1/Note 1.md",
-    "docs/Topic 1/Note 2.md",
-    "docs/Features/LaTeX Math Support.md",
-    "Port Zug.md",
-    "docs/Campaign Map.canvas",
-    "_Templates/General Template.md",
-    "_Templates/Character Worksheet Template.md",
-    "People/Arshun Ibn Abed Humaid el-Abed.md",
-    "Maq'Sahir.md"
+    "docs/Topic 1/Note 2.md"
   ]
 }
