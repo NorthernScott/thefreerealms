@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Empire of Seven Houses.md",
+                "file": "Meta/Character Worksheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "658cb3decb6949cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/The Tiger.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Empire of Seven Houses.md",
+                "file": "Meta/Character Worksheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/Empire of Seven Houses.md",
+                "file": "Meta/Character Worksheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Empire of Seven Houses.md"
+                "file": "Meta/Character Worksheet.md"
               }
             }
           },
@@ -147,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,15 +180,15 @@
   },
   "active": "8734f1fd2d2371d3",
   "lastOpenFiles": [
+    "Locations/Rihat Caravansary.md",
+    "Organizations/The Tiger.md",
+    "Organizations/Empire of Seven Houses.md",
+    "Culture/Cultures of the World.md",
     "Meta/Character Worksheet.md",
     "Meta/Character Archetypes.md",
-    "Culture/Cultures of the World.md",
     "People/Arshun Ibn Abed Humaid el-Abed.md",
     "Organizations/Maq'Sahir.md",
-    "Organizations/Empire of Seven Houses.md",
     "Locations/Port Zug.md",
-    "Culture/Majnun.md",
-    "Meta/General Template.md",
-    "Campaign Map.canvas"
+    "Culture/Majnun.md"
   ]
 }
