@@ -29,8 +29,8 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: blue
-      toggle: deep orange
+      accent: deep orange
+      toggle: 
         icon: material/toggle-switch
         name: Switch to light mode
       font: 
