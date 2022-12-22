@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "IBM Plex Sans,IBM Plex Serif",
+  "textFontFamily": "IBM Plex Serif",
+  "monospaceFontFamily": "IBM Plex Mono",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Command Palette",
+    "Scott's Personalization"
+  ]
+}
