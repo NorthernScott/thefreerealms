@@ -1,11 +1,3 @@
----
-created date: 2022-12-18
-tags:
-	- Meta
-aliases: [Character Worksheet]
-publish: true
----
-
 This worksheet is intended to help with building and fleshing out character ideas. Don't feel that you need to answer every question below - some may or may not apply. Instead, use the questions as prompts to help you develop ideas. Another great resource is [Tasha’s Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe), especially the random generator tables.
 
 **Name:**

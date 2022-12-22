@@ -1,11 +1,3 @@
----
-created date: 2022-12-21
-tags:
-	- Meta
-aliases: [Archetypes]
-publish: true
----
-
 *Adapted from [14 Common Character Archetypes You Should Know (dabblewriter.com)](https://www.dabblewriter.com/articles/character-archetypes)*
 
 When first building a character, it's easy to think that they have to be the most unique character ever created, but this isn't true. There is nothing wrong with taking inspiration from movies, plays, literature, and mythology. There is a reason why many of the most familiar character archetypes appear over and over again: they are compelling, complex, and make for good stories. Archetypes can be a useful foundation on which to build characters that are unique and reflective of you.

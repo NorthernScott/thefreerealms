@@ -11,8 +11,13 @@
             "id": "8734f1fd2d2371d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Arshun Ibn Abed Humaid el-Abed.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Arshun Ibn Abed Humaid el-Abed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Arshun Ibn Abed Humaid el-Abed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Arshun Ibn Abed Humaid el-Abed.md"
+              }
             }
           },
           {
@@ -158,15 +167,15 @@
   },
   "active": "8734f1fd2d2371d3",
   "lastOpenFiles": [
+    "Organizations/Maq'Sahir.md",
+    "Organizations/Empire of Seven Houses.md",
     "Meta/Character Worksheet.md",
-    "Culture/Cultures of the World.md",
     "Meta/Character Archetypes.md",
+    "Locations/Port Zug.md",
+    "Culture/Majnun.md",
+    "Culture/Cultures of the World.md",
     "Meta/General Template.md",
     "Campaign Map.canvas",
-    "Organizations/Empire of Seven Houses.md",
-    "Locations/Port Zug.md",
-    "docs/Features/Text Formatting.md",
-    "docs/Topic 1/Note 1.md",
-    "docs/Topic 1/Note 2.md"
+    "docs/Features/Text Formatting.md"
   ]
 }

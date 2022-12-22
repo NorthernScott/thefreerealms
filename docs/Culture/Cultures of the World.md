@@ -1,11 +1,3 @@
----
-created date: 2022-12-19
-tags:
-	- overview
-	- culture
-aliases: [World Culture, World Cultures]
-publish: true
----
 ## Introduction
 
 Cultures in the Free Realms are based on the establishment of people group before, during, and after the [[Empire of Seven Houses|Sebeun Empire]]. All cultural groups in the world have been dramatically impacted by colonialism and even those that have coalesced around a pre-imperial identity are essentially reconstructionist in nature. Perhaps the most dramatic impact of the Empire is the amount of racial mixing that exists in the world. Races are widely distributed across the planet, and most cultural groups are multiracial.
