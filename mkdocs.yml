@@ -23,8 +23,6 @@ theme:
       favicon: img/favicon.png
       features:
         - header.autohide
-      extra: 
-      copyright: Copyright &copy; 2022 S. Drennan
 
 
     # Dark mode
@@ -41,8 +39,6 @@ theme:
       favicon: img/favicon.png
       features:
         - header.autohide
-      extra: 
-      copyright: Copyright &copy; 2022 S. Drennan
 
 # Extensions
 markdown_extensions:

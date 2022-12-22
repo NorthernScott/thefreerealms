@@ -1,11 +1,3 @@
-# Obsidian Notes
+# The Free Realms
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+No one really knows what came before the Empire, and no one really knows what will come after. The elves ruled the world absolutely for almost five thousand years, and precious little remains of what came before. Now that the Free Races of Milas have thrown off the yoke of their oppressors, a new golden age is on the verge of dawning. The world is changing again and phenomena both ancient and new are reappearing. What comes next is anybody's guess.
