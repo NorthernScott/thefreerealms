@@ -2,7 +2,8 @@ site_name: The Free Realms Wiki
 site_url: https://northernscott.github.io/
 
 repo_url: https://github.com/NorthernScott/thefreerealms
-repo_name: Github Profile
+repo_name: Github
+edit_uri: /docs/
 
 theme:
     name: 'material'
@@ -20,9 +21,9 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: indigo
       accent: blue
-      toggle:
+      toggle: deep orange
         icon: material/toggle-switch
         name: Switch to light mode
 
