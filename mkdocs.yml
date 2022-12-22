@@ -17,13 +17,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      font: 
-        text: IBM Plex Serif
-        code: IBM Plex Mono
-      favicon: img/favicon.png
-      features:
-        - header.autohide
-
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -33,12 +26,14 @@ theme:
       toggle: 
         icon: material/toggle-switch
         name: Switch to light mode
-      font: 
-        text: IBM Plex Serif
-        code: IBM Plex Mono
-      favicon: img/favicon.png
-      features:
-        - header.autohide
+
+    font: 
+      text: IBM Plex Serif
+      code: IBM Plex Mono
+    favicon: img/favicon.png
+    features:
+      - header.autohide
+    copyright: Copyright &copy; 2022 S. Drennan
 
 # Extensions
 markdown_extensions:
