@@ -2,6 +2,7 @@
 .vscode/settings.json
 .obsidian/*
 .trash/*
+drafts/*
 desktop.ini
 
 # Byte-compiled / optimized / DLL files
