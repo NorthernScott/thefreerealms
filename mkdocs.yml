@@ -34,8 +34,8 @@ theme:
     features:
       - header.autohide
     language: en
-    extra:
-      copyright: Copyright &copy; 2022 S. Drennan
+
+copyright: Copyright &copy; 2022 S. Drennan
 
 # Extensions
 markdown_extensions:
