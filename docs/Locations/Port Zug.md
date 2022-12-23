@@ -2,6 +2,9 @@
 
 Port Zug is the quintessential tourist town. Perched on the coast at the edge of the desert, the city sits at sea level and hosts a moderately sized port. Where many coastal cities act as trade hubs, Port Zug is supported principally by tourism. Prostitution, drinking, drugs, gambling, and gladiator fighting are all legal. While chattel slavery is officially frowned upon, the laws explicitly allow for contracted indentured servitude, and roughly two-thirds of the population are in fact slaves.
 
+!!! info "Port Zug"
+	![[Port Zug.jpg|500]]
+
 ### Demographics
 
 *All figures are approximate*.
@@ -21,9 +24,12 @@ Port Zug is the quintessential tourist town. Perched on the coast at the edge of
 
 ### Executive
 
-Port Zug is nominally governed by a hereditary Patriarch, the Arshun, currently [[Arshun Ibn Abed Humaid el-Abed]]. However, in actuality, the city is governed by a small conclave of sorcerers know as the *[[Maq'Sahir]]*. They are literally the power behind the throne, as a trusted member of the Maq'Sahir serves as Grand Vizir at all times. From their place at the Arshun's side, they can guide, cajole, influence, threaten, and otherwise direct almost all matters in the city.
+Port Zug is nominally governed by a hereditary Patriarch, the Arshun - currently [[Arshun Ibn Abed Humaid el-Abed]], who rules with total authority. However, in actuality, the city is governed by a small conclave of sorcerers know as the *[[Maq'Sahir]]*. They are literally the power behind the throne, as a trusted member of the Maq'Sahir serves as Grand Vizir[^1] at all times. From their place at the Arshun's side, they can guide, cajole, influence, threaten, and otherwise direct almost all matters in the city.
+[^1]: The Grand Vizier serves as, essentially, the chief civil servant of the city and also the head magistrate. This, in addition to their influence over the Arshun, makes the Grand Vizier easily the most powerful person in Port Zug.
 
-Unbeknownst to almost everyone, and especially to the Arshun. the Maq'Sahir are themselves governed by a group of four powerful genies - a Dao, a Djinn, an Efreet, and a Marid. Though rarely spoken of, those who know of them called them simply "[[Maq'Sahir#The Four|The Four]]."
+??? danger "Spoilers"
+
+	Unbeknownst to almost everyone, and especially to the Arshun. the Maq'Sahir are themselves governed by a group of four powerful genies - a Dao, a Djinn, an Efreet, and a Marid. Though rarely spoken of, those who know of them called them simply "[[Maq'Sahir#The Four|The Four]]."
 
 ### Legislative
 

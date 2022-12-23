@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Arshun Ibn Abed Humaid el-Abed.md",
+                "file": "Locations/Port Zug.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Arshun Ibn Abed Humaid el-Abed.md",
+                "file": "Locations/Port Zug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Arshun Ibn Abed Humaid el-Abed.md",
+                "file": "Locations/Port Zug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Arshun Ibn Abed Humaid el-Abed.md"
+                "file": "Locations/Port Zug.md"
               }
             }
           },
@@ -203,11 +203,11 @@
   },
   "active": "3bb083ae63613eb9",
   "lastOpenFiles": [
-    "assets/images/Arshun Ibn Abed Humaid el-Abed.png",
     "People/Arshun Ibn Abed Humaid el-Abed.md",
-    "Locations/Port Zug.md",
-    "Organizations/Maq'Sahir.md",
     "Meta/Settlement Worksheet.md",
+    "Organizations/Maq'Sahir.md",
+    "assets/images/Arshun Ibn Abed Humaid el-Abed.png",
+    "Locations/Port Zug.md",
     "Organizations/The Tiger.md",
     "Meta/Resources and Tools.md",
     "Meta/Fronts Worksheet.md",
