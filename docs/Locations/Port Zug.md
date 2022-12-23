@@ -2,7 +2,7 @@
 
 Port Zug is the quintessential tourist town. Perched on the coast at the edge of the desert, the city sits at sea level and hosts a moderately sized port. Where many coastal cities act as trade hubs, Port Zug is supported principally by tourism. Prostitution, drinking, drugs, gambling, and gladiator fighting are all legal. While chattel slavery is officially frowned upon, the laws explicitly allow for contracted indentured servitude, and roughly two-thirds of the population are in fact slaves.
 
-!!! info "Port Zug"
+???+ info inline end "Port Zug"
 	![[Port Zug.jpg|500]]
 
 ### Demographics
@@ -24,7 +24,14 @@ Port Zug is the quintessential tourist town. Perched on the coast at the edge of
 
 ### Executive
 
-Port Zug is nominally governed by a hereditary Patriarch, the Arshun - currently [[Arshun Ibn Abed Humaid el-Abed]], who rules with total authority. However, in actuality, the city is governed by a small conclave of sorcerers know as the *[[Maq'Sahir]]*. They are literally the power behind the throne, as a trusted member of the Maq'Sahir serves as Grand Vizir[^1] at all times. From their place at the Arshun's side, they can guide, cajole, influence, threaten, and otherwise direct almost all matters in the city.
+???+ info inline end "Arshun Ibn Abed Humaid el-Abed"
+	![[Arshun Ibn Abed Humaid el-Abed.png|300]]
+
+Port Zug is nominally governed by a hereditary Patriarch, the Arshun - currently [[Arshun Ibn Abed Humaid el-Abed]], who rules with total authority. However, in actuality, the city is governed by a small conclave of sorcerers know as the *[[Maq'Sahir]]*. They are literally the power behind the throne, as a trusted member of the Maq'Sahir serves as Grand Vizir[^1] at all times. From their place at the Arshun's side, they can guide, cajole, influence, threaten, and otherwise direct almost all matters in the city. The current Grand Vizier is [[Haamida Al-Hashem|Grand Vizier Haamida Al-Hashem]], a woman who is renowned for her wisdom and is generally well-liked by the populace.
+
+???+ info inline end "Grand Vizier Haamida Al-Hasehm"
+	![[Grand Vizier Haamida Al-Hashem.png|300]]
+
 [^1]: The Grand Vizier serves as, essentially, the chief civil servant of the city and also the head magistrate. This, in addition to their influence over the Arshun, makes the Grand Vizier easily the most powerful person in Port Zug.
 
 ??? danger "Spoilers"
@@ -43,13 +50,17 @@ The judicial system in Port Zug is simple, effective, and often controversial. A
 
 The Court of the Grand Vizier is always presided over by either the Grand Vizier themself or, frequently, by an appointed magistrate. The court follows only basic rules of evidence and semi-elaborate rules of order that are somewhat flexible depending on the presiding magistrate. Judgments are usually handed down immediately following arguments and presentation of evidence, with punishments and sentences often carried out on the spot. Although petitioners can appeal to the Arshun, in practice the Arshun has not heard a case in over 12 years.
 
-While such a system could be rife with corruption and primed for abuse, the Maq'Sahir understand that stability is key to their flourishing and make a concerted effort to deliver actual justice and at least the appearance of impartiality. It is purely this self-interested goodwill that ensures the court process is more than a showtrial.
+While such a system could be rife with corruption and primed for abuse, the Maq'Sahir understand that stability is key to their flourishing and make a concerted effort to deliver actual justice and at least the appearance of impartiality. It is purely this self-interested goodwill that ensures the court process is more than a show trial.
 
 ## Culture
 
 ### Drugs & Alcohol
 
-Recreational activities include a cornucopia of brothels, dune sled racing in the "Empty Quarter," gladiatorial combat, athletics contests (held nude at the arena), a sirprisingly large zoo, sailing races, eating contests, parties, orgies, drinking, and the consumption of a hashish-like drug called "[[Majnun]]." (A more potent and possibly adulterated form called "[[Majnun#j'nuninn|j'nunninn]]" has recently appeared and been associated with several deaths.)
+Recreational activities include a cornucopia of brothels, dune sled racing in the "Empty Quarter," gladiatorial combat, athletics contests (held nude at the arena), a sirprisingly large zoo, sailing races, eating contests, parties, orgies, drinking, and the consumption of a hashish-like drug called "[[Majnun]]."
+
+??? info "Spoilers"
+
+	A more potent and possibly adulterated form of Majnun, called "[[Majnun#j'nuninn|j'nunninn]]," has recently appeared and been associated with several deaths.
 
 ## Slavery
 
