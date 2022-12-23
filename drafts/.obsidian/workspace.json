@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8734f1fd2d2371d3",
+            "id": "71b7719b5d720885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Character Worksheet.md",
+                "file": "Meta/Settlement Worksheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,46 @@
             }
           },
           {
-            "id": "658cb3decb6949cb",
+            "id": "57657e2077f26081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/The Tiger.md",
+                "file": "Meta/Resources and Tools.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bb083ae63613eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Port Zug.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "281a1f49697820f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Maq'Sahir.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Character Worksheet.md",
+                "file": "Meta/Resources and Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Character Worksheet.md",
+                "file": "Meta/Resources and Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Character Worksheet.md"
+                "file": "Meta/Resources and Tools.md"
               }
             }
           },
@@ -158,9 +185,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "cfef517db15e755e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -178,17 +213,17 @@
       "vantage-obsidian:Vantage - Advanced search builder": false
     }
   },
-  "active": "8734f1fd2d2371d3",
+  "active": "cfef517db15e755e",
   "lastOpenFiles": [
-    "Locations/Rihat Caravansary.md",
-    "Organizations/The Tiger.md",
-    "Organizations/Empire of Seven Houses.md",
-    "Culture/Cultures of the World.md",
+    "Meta/Fronts Worksheet.md",
     "Meta/Character Worksheet.md",
     "Meta/Character Archetypes.md",
-    "People/Arshun Ibn Abed Humaid el-Abed.md",
-    "Organizations/Maq'Sahir.md",
+    "Meta/Settlement Worksheet.md",
+    "Meta/Resources and Tools.md",
     "Locations/Port Zug.md",
-    "Culture/Majnun.md"
+    "Organizations/Maq'Sahir.md",
+    "Culture/Majnun.md",
+    "Locations/Rihat Caravansary.md",
+    "Organizations/The Tiger.md"
   ]
 }
