@@ -33,7 +33,9 @@ theme:
     favicon: assets/images/favicon.png
     features:
       - header.autohide
-    copyright: Copyright &copy; 2022 S. Drennan
+    language: en-CA
+    extra:
+      copyright: Copyright &copy; 2022 S. Drennan
 
 # Extensions
 markdown_extensions:
@@ -53,6 +55,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.smarty
 
   - toc:
       permalink: true
