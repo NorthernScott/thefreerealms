@@ -33,7 +33,7 @@ theme:
     favicon: assets/images/favicon.png
     features:
       - header.autohide
-    language: en-CA
+    language: en
     extra:
       copyright: Copyright &copy; 2022 S. Drennan
 
