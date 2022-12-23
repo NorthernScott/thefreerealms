@@ -1,8 +1,8 @@
 # Third-party app files and folders
 .vscode/settings.json
-.obsidian/*
-.trash/*
-drafts/*
+.obsidian/
+.trash/
+drafts/
 desktop.ini
 
 # Byte-compiled / optimized / DLL files
