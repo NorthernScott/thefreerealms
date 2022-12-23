@@ -65,7 +65,7 @@ This worksheet is intended to help with building and fleshing out character idea
 **Needs:**  
 *What does your character actually need?*
 
-**Fears:** 
+**Fears:**  
 *If you haven’t already covered this in Motivation, what is your character’s greatest fear? Do they have any phobias?*
 
 **Flaws:**  

@@ -10,6 +10,10 @@ Those who identify as "Sebeun" are essentially holdovers from a dead empire. The
 
 The Kindred were a sect of elves who split from what became the Sebeun over two millennia ago. They believe deeply in balance and respect for life. They have lived in total isolation on the continent of Polaris since the schism but in recent decades have started to send out emissaries alone and in pairs to find their former kin and to re-enter the world.
 
+## Ashur-Nirari
+
+A culture of halflings who act as nomadic traders that transport good across the [[Ssibilene Desert]].
+
 ## Caraighnen
 
 Racially mixed, Caraighnen are merchants and traders with a strong naval tradition. Tending toward neo-liberal values with strong capitalist tendencies. Culture touchstones are based on Renaissance Italy. Based in the city and republic of Caraighn.
