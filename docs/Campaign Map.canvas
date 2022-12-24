@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"fe0d3360df18c891","x":-158,"y":-81,"width":400,"height":245,"type":"file","file":"Locations/Port Zug.md"}
+		{"id":"fe0d3360df18c891","x":-158,"y":-81,"width":400,"height":245,"type":"file","file":"Locations/Port Zug.md"},
+		{"id":"75c7b60bc8ca4091","x":343,"y":-358,"width":400,"height":400,"type":"file","file":"Meta/Character Archetypes.md"},
+		{"id":"c4ce68b552385ba6","x":-83,"y":-358,"width":250,"height":60,"type":"text","text":"Test"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"bda6a338522cb3bb","fromNode":"75c7b60bc8ca4091","fromSide":"bottom","toNode":"fe0d3360df18c891","toSide":"right"},
+		{"id":"1205f52633df5831","fromNode":"c4ce68b552385ba6","fromSide":"right","toNode":"75c7b60bc8ca4091","toSide":"left"}
+	]
 }

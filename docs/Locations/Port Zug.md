@@ -2,7 +2,7 @@
 
 Port Zug is the quintessential tourist town. Perched on the coast at the edge of the desert, the city sits at sea level and hosts a moderately sized port. Where many coastal cities act as trade hubs, Port Zug is supported principally by tourism. Prostitution, drinking, drugs, gambling, and gladiator fighting are all legal. While chattel slavery is officially frowned upon, the laws explicitly allow for contracted indentured servitude, and roughly two-thirds of the population are in fact slaves.
 
-???+ info inline end "Port Zug"
+???+ info "Port Zug"
 	![[Port Zug.jpg|500]]
 
 ### Demographics
@@ -29,7 +29,7 @@ Port Zug is the quintessential tourist town. Perched on the coast at the edge of
 
 Port Zug is nominally governed by a hereditary Patriarch, the Arshun - currently [[Arshun Ibn Abed Humaid el-Abed]], who rules with total authority. However, in actuality, the city is governed by a small conclave of sorcerers know as the *[[Maq'Sahir]]*. They are literally the power behind the throne, as a trusted member of the Maq'Sahir serves as Grand Vizir[^1] at all times. From their place at the Arshun's side, they can guide, cajole, influence, threaten, and otherwise direct almost all matters in the city. The current Grand Vizier is [[Haamida Al-Hashem|Grand Vizier Haamida Al-Hashem]], a woman who is renowned for her wisdom and is generally well-liked by the populace.
 
-???+ info inline end "Grand Vizier Haamida Al-Hasehm"
+???+ info inline "Grand Vizier Haamida Al-Hasehm"
 	![[Grand Vizier Haamida Al-Hashem.png|300]]
 
 [^1]: The Grand Vizier serves as, essentially, the chief civil servant of the city and also the head magistrate. This, in addition to their influence over the Arshun, makes the Grand Vizier easily the most powerful person in Port Zug.
