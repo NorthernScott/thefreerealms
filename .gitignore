@@ -4,6 +4,10 @@
 .trash/
 docs/.trash/
 docs/.obsidian/
+.obsidian/*
+.trash/*
+docs/.trash/*
+docs/.obsidian/*
 drafts/
 desktop.ini
 
