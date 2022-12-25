@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71b7719b5d720885",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "3bb083ae63613eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Organizations/The Tiger.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +21,12 @@
             }
           },
           {
-            "id": "281a1f49697820f4",
+            "id": "15fad38f903ccda1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Maq'Sahir.md",
+                "file": "Meta/Settlement Worksheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Meta/Settlement Worksheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Meta/Settlement Worksheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Meta/Settlement Worksheet.md"
               }
             }
           },
@@ -195,17 +187,17 @@
       "vantage-obsidian:Vantage - Advanced search builder": false
     }
   },
-  "active": "3bb083ae63613eb9",
+  "active": "15fad38f903ccda1",
   "lastOpenFiles": [
-    "Meta/Settlement Worksheet.md",
-    "Fronts.md",
-    "People/Arshun Ibn Abed Humaid el-Abed.md",
-    "assets/images/Arshun Ibn Abed Humaid el-Abed.png",
-    "Campaign Map.canvas",
+    "Meta/Resources and Tools.md",
+    "Meta/Fronts Worksheet.md",
+    "Meta/Character Worksheet.md",
+    "Meta/Character Archetypes.md",
     "Locations/Port Zug.md",
-    "Gishisi.md",
+    "Campaign Map.canvas",
+    "People/Arshun Ibn Abed Humaid el-Abed.md",
+    "Organizations/Empire of Seven Houses.md",
     "Organizations/Maq'Sahir.md",
-    "Organizations/The Tiger.md",
-    "Meta/Resources and Tools.md"
+    "Locations/Rihat Caravansary.md"
   ]
 }
