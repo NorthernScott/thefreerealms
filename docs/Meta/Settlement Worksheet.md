@@ -1,5 +1,3 @@
-#Meta #Worksheet
-
 This worksheet is intended to help with ideation for settlements of all sizes. See the [[Settlement Template]] to layout and format settlement articles.
 
 *Adapted from [Lazeerlow's Actionable City and Town Template (reddit.com)](https://www.reddit.com/r/DnDBehindTheScreen/comments/ijjj2c/lazeerlows_actionable_city_and_town_template/), with additions based on Dael Kingsmill's excellent ["SPERM" model for settlement creation](https://youtu.be/sJd6g--Ok_A?t=105).*

@@ -9,7 +9,11 @@ docs/.obsidian/
 docs/.trash/*
 docs/.obsidian/*
 drafts/
+atlas/
+atlas/*
 desktop.ini
+qgis/
+qgis/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

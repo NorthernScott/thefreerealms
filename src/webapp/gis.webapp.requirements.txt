@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+psycopg2
+docutils
+markdown
+pillow
+pandas
+numpy
+django-colorfield
+
+###### Requirements with Version Specifiers ######
+django >= 4.1.3

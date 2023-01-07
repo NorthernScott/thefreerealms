@@ -1,0 +1,81 @@
+version: "3"
+name: "loh gis"
+services:
+
+  db:
+    build: 
+      context: .
+      dockerfile: gis.db.dockerfile
+    environment:
+      POSTGRES_USER: lohadmin
+      POSTGRES_DB: loh_gis
+      POSTGRES_PASSWORD: lohadmin
+    networks:
+      - appnet
+    ports:
+      - "5432:5432"
+      - "443:5432"
+    volumes:
+      - gis_db_data:/var/lib/postgresql/data
+
+  webapp:
+    build:
+      context: .
+      dockerfile: gis.webapp.dockerfile
+    environment:
+      - PYTHONPATH=/
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONBUFFERED=1
+      - DJANGO_SUPERUSER_USERNAME=lohadmin
+      - DJANGO_SUPERUSER_EMAIL=s.drennan@gmail.com
+      - DJANGO_SUPERUSER_PASSWORD=lohadmin
+      - DJANGO_SETTINGS_MODULE=loh.settings
+    networks:
+      - appnet
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src/webapp:/src/
+    depends_on:
+      - db
+    command: ['python','/src/manage.py','runserver','0.0.0.0:8000']
+
+  serverapp:
+    build:
+      context: .
+      dockerfile: gis.serverapp.dockerfile
+    networks:
+      - appnet
+    ports:
+      - "22:22"
+    volumes:
+      - ./src/terraingenerator:/src/
+    tty: true
+  
+  db-admin:
+    build: 
+      context: .
+      dockerfile: gis.db.admin.dockerfile
+    environment:
+      PGADMIN_DEFAULT_EMAIL: s.drennan@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_LISTEN_ADDRESS: 0.0.0.0
+      PGADMIN_LISTEN_PORT: 9000
+    networks:
+      - appnet
+    ports:
+      - "9000:9000"
+    volumes:
+      - gis_db_admin_data:/var/lib/pgadmin
+    depends_on:
+      - db
+
+networks:
+  appnet:
+      name: lohnet
+      driver: bridge
+
+volumes:
+  gis_db_data:
+  gis_db_admin_data:
+  qgis_data:

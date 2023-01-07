@@ -2,6 +2,11 @@
 
 Port Zug is the quintessential tourist town. Perched on the coast at the edge of the desert, the city sits at sea level and hosts a moderately sized port. Where many coastal cities act as trade hubs, Port Zug is supported principally by tourism. Prostitution, drinking, drugs, gambling, and gladiator fighting are all legal. While chattel slavery is officially frowned upon, the laws explicitly allow for contracted indentured servitude, and roughly two-thirds of the population are in fact slaves.
 
+???+ danger "Spoilers"
+	1. Legalized Everything: Gambling, prostitution, some drugs, extreme sports, gladiatorial fighting, and slavery are all legal here. Most of this activity is highly regulated and confined to "The Paradise" - a pleasure district on the edge of town.
+	2.  Elemental Influence: The city is highly influenced by elemental magic and has deep and instrinsic connections with the elemental planes. As a result, elementals, genasi, and various genie are comparatively common.
+	3. Seething Underbelly: Like many large cities, there is a florid criminal underbelly present. However, the permissive culture of Port Zug has attracted more than its fair share, including a wide variety of strange creatures and larger than life personalities.
+
 ???+ info "Port Zug"
 	![[Port Zug.jpg|500]]
 
@@ -74,7 +79,28 @@ While the theory of slavery is largely positive and well-regulated, the practice
 
 ## Caste System
 
-Over the past century, social life in Zug has become dominated by an informal caste system know as the Law of Threes. What started as 
+Over the past two centuries, social life in Zug has become dominated by an informal caste system know as the Law of Threes. What started as 
+
+## Districts
+
+### The Old Town
+
+*What makes this district unique?*
+
+**Location of Interest**
+- Detail 1
+- Detail 2
+- Detail 3
+
+**Location of Interest**
+- Detail 1
+- Detail 2
+- Detail 3
+
+**Location of Interest**
+- Detail 1
+- Detail 2
+- Detail 3
 
 ### Notable Places:
 
