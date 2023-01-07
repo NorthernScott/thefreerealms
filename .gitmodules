@@ -1,4 +1,0 @@
-[submodule "src/terraingenerator/extern/pybind11"]
-	path = src/terraingenerator/extern/pybind11
-	url = ../../pybind/pybind11
-	branch = stable
