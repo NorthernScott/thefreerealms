@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"363c6b6306d3213a","x":-8,"y":-205,"width":400,"height":400,"type":"file","file":"Locations/Port Zug.md"},
+		{"id":"c4ce68b552385ba6","x":-83,"y":-358,"width":250,"height":60,"type":"text","text":"Hob the B"},
+		{"id":"1f1e2ce9ee3ccf0f","x":140,"y":-489,"width":250,"height":60,"type":"text","text":"Plans for Harlequin"},
+		{"id":"788026120c2ac30c","x":-158,"y":-611,"width":250,"height":60,"type":"text","text":"Research Artificer spells and spell learning."},
+		{"id":"1dbc0c9ca14203e1","x":274,"y":-610,"width":250,"height":60,"type":"text","text":"O plot arc."}
+	],
+	"edges":[]
+}
